@@ -36,35 +36,35 @@ You can define the table schema with the structure below. The field types should
 ```
 
 The following column types are available:
- * bigIncrements
- * increments
- * bigInteger
- * binary
- * boolean
- * char
- * date
- * dateTime
- * decimal
- * double
- * enum
- * float
- * integer
- * ipAddress
- * json
- * jsonb
- * longText
- * macAddress
- * mediumInteger
- * mediumText
- * morphs
- * smallInteger
- * string
- * string
- * text
- * time
- * tinyInteger
- * timestamp
- * uuid
+* bigIncrements
+* increments
+* bigInteger
+* binary
+* boolean
+* char
+* date
+* dateTime
+* decimal
+* double
+* enum
+* float
+* integer
+* ipAddress
+* json
+* jsonb
+* longText
+* macAddress
+* mediumInteger
+* mediumText
+* morphs
+* smallInteger
+* string
+* string
+* text
+* time
+* tinyInteger
+* timestamp
+* uuid
 
 ### Relationships (Requires migration option)
 
